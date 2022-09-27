@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/kotagiri_tarun" target="blank"><img src="https://img.shields.io/twitter/follow/kotagiri_tarun?logo=twitter&style=for-the-badge" alt="kotagiri_tarun" /></a> </p>
 
-- 🔭 I’m currently working on **Artificial Intelligence and Machine learning**
+- 🔭 I’m currently working on **DRONES**
 
-- 🌱 I’m currently learning **React, Node js.**
+- 🌱 I’m currently learning **BlockChain Technology**
 
 - 👯 I’m looking to collaborate on **Industrial products**
 
