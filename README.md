@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **tarunkotagiri3007@gmail.com**
 
-- 📄 Know about my experiences :  [RESUME](https://drive.google.com/file/d/1dclYhfpU0AWFcT2PR-yGUYY6NzUghUiW/view?usp=sharing)
+- 📄 Know about my experiences :  [RESUME](https://drive.google.com/file/d/1Xbs_j8uBWG_bFn1wS2W7VDSGLMQQqIoQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
