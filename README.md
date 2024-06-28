@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **tarunkotagiri3007@gmail.com**
 
-- 📄 Know about my experiences :  [RESUME](https://drive.google.com/file/d/1Xbs_j8uBWG_bFn1wS2W7VDSGLMQQqIoQ/view?usp=sharing)
+- 📄 Know about my experiences :  [RESUME](https://drive.google.com/file/d/1iPWjpjL8FctImxqTHLVH6H00vDzE8Fxf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,7 +62,7 @@
 
 ---
 
-#### Metacrafters ETH Proof
+<!-- #### Metacrafters ETH Proof
 
 
 
@@ -70,3 +70,4 @@
   <a href="https://solscan.io/token/3YeH1zEcrHQdTZcu5knA11o4YNQsRy1fraGPuwgnk9qr"><img src="https://bucket-with-the-only-name-like-this.s3.ap-south-1.amazonaws.com/Proof+Of+Learn+eth-beginner+evm.png" width="33%"></a>
   <a href="https://solscan.io/token/6LVGoTaqZcgnCNB5dxzW9uEMT5sqR9dHy2sUdMfSuj2"><img src="https://bucket-with-the-only-name-like-this.s3.ap-south-1.amazonaws.com/Eth-proof-EVM-Intermediate-NFT.png" width="33%"></a>
  </p>
+-->
